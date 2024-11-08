@@ -70,7 +70,9 @@ plt.title("Customer segments")
 ## Output:
 
 ![Screenshot 2024-10-14 114151](https://github.com/user-attachments/assets/8e691adf-7cb1-48f6-b543-653a991b71b0)
+
 ![Screenshot 2024-10-14 114409](https://github.com/user-attachments/assets/37d1be8b-fa03-4e48-872f-3618e51f12f2)
+
 ![Screenshot 2024-10-14 114620](https://github.com/user-attachments/assets/1222b784-e3cd-49bd-9259-853ebc25eb7e)
 
 ## Result:
